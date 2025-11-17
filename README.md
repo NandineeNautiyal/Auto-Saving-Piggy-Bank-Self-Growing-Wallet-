@@ -32,3 +32,5 @@ ERC20 token deposit support
 Integration into a full dApp with UI
 
 Gamified savings rewards or NFTs
+<img width="1741" height="768" alt="image" src="https://github.com/user-attachments/assets/1ac1eda0-79fd-4524-9c80-e156fed4e8a2" />
+
