@@ -24,6 +24,9 @@ Tier-based or dynamic interest rates
 
 Deposit history tracking
 
+# CONTRACT ADDRESS
+0xd9145CCE52D386f254917e481eB44e9943F39138
+
 ERC20 token deposit support
 
 Integration into a full dApp with UI
